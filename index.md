@@ -5,7 +5,7 @@ My hobbies are : playing videogame, listening music and programming!
 I hope one day i will achive something with my life lol.
 ## Videogames related stuff
 [steam](https://steamcommunity.com/id/zJack1342VIP/): Pino  <br>
-[pokemon shodow](https://pokemonshowdown.com/users/zjack1342) : zJack1342 <br>  
+[pokemon showdown](https://pokemonshowdown.com/users/zjack1342) : zJack1342 <br>  
 
 ## Programming contest basic data
 [codeforce](https://codeforces.com/profile/the_pino): the_pino  <br>
