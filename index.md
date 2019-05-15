@@ -17,7 +17,7 @@ I will learn py one day <br>
 
 ## My favorite games
 1. Counter Strike Global Offensive
-2. Dead by Daylight 
+2. Dead By Daylight
 3. Ape Escape
 
 ## Achivments
