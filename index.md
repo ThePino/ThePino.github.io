@@ -16,9 +16,9 @@ I will learn py one day <br>
 * [cct](https://training.olinfo.it/#/task/cct/statement)  
 
 ## My favorite games
-1) Counter Strike Global Offensive
-2) Dead by Daylight 
-3) Ape Escape
+1. Counter Strike Global Offensive
+2. Dead by Daylight 
+3. Ape Escape
 
 ## Achivments
 * finals at ois 2018 with "Procedura SAP"
