@@ -8,10 +8,17 @@ I hope one day i will achive something with my life lol. <br>
 [pokemon showdown](https://pokemonshowdown.com/users/zjack1342) : zJack1342 <br>  
 
 ## Programming contest basic data
+My main programming language : c++ <br>
+I will learn py one day <br>
 [codeforce](https://codeforces.com/profile/the_pino): the_pino  <br>
 [olinfo](https://training.olinfo.it/#/user/zJack1342/profile): zJack1342 <br> 
 ### Programming problems created by me 
 * [cct](https://training.olinfo.it/#/task/cct/statement)  
+
+## My favorite games
+1) Counter Strike Global Offensive
+2) Dead by Daylight 
+3) Ape Escape
 
 ## Achivments
 * finals at ois 2018 with "Procedura SAP"
